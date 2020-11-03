@@ -47,7 +47,7 @@ For more information, check out plugin page at [V4 Search](https://itsvalentin.c
 
 
 
-Source Code At [V4LAB - V4Search Repository](TUKA LINK).
+Source Code At [V4LAB - V4Search Repository](https://github.com/V4LAB/V4Search).
 
 
 
