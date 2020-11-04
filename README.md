@@ -1,22 +1,12 @@
 === V4 SEARCH ===
-
 Contributors: V4LAB
-
 Donate link: https://itsvalentin.com/donate/
-
 Tags: search, save search, 
-
 Requires at least: 3.3
-
-Requires PHP: 5.2.4
-
-Tested up to: 5.4
-
-Stable tag: 1.3.2
-
-License: MIT License
-
-License URI: http://opensource.org/licenses/MIT
+Tested up to: 5.6
+Stable tag: 0.0.1
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 
 
